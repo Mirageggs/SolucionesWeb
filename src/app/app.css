@@ -1,0 +1,47 @@
+/* HERO */
+.hero-section {
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 12px;
+  }
+  
+  .hero-text {
+    font-size: 1.1rem;
+    color: #6c757d;
+  }
+  
+  /* CARDS */
+  .info-card {
+    height: 100%;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+  }
+  /* LISTA */
+  .funcionalidades-list {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .funcionalidades-list .list-group-item {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .funcionalidades-list .list-group-item:last-child {
+    border-bottom: none;
+  }
+  
+  /* FOOTER */
+  .footer-custom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0.7rem 0;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+  }
